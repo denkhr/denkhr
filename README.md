@@ -22,11 +22,10 @@
 <a href="https://gsap.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/gsap.svg" alt="gsap" width="70" height="auto"/></a>  <span>  </span>
 <a href="https://spline.design/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/spline.svg" alt="spline" width="48" height="48"/></a>  <span>  </span>
 <a href="https://www.figma.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/figma.svg" alt="figma" width="auto" height="50"/></a> 
-
-<a href="https://jestjs.io"> <img align="center" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>  <span>  </span>
-<a href="https://www.photoshop.com/en"> <img align="center" rc="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>  <span>  </span>
-<a href="https://reactjs.org/"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>  <span>  </span>
-<a href="https://tailwindcss.com/"> <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
+<a href="https://www.adobe.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/photoshop.svg" alt="photoshop" width="auto" height="48"/></a>  <span>  </span>
+<a href="https://www.adobe.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/illustrator.svg" alt="illustrator" width="auto" height="48"/></a>  <span>  </span>
+<a href="https://www.adobe.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/after-effects.svg" alt="after effects" width="auto" height="48"/></a>  <span>  </span>
+<a href="https://www.blender.org/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/blender.svg" alt="blender" width="auto" height="46"/></a> 
 </div>
 
 <div><p> </p></div>
