@@ -8,6 +8,8 @@
 <a href="https://www.behance.net/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/behance.svg" alt="behance link" height="auto" width="50"/></a>
 </div>
 
+<div><p> </p></div>
+
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/html5.svg" alt="html 5" width="auto" height="50"/></a>  <span>  </span>
@@ -20,7 +22,7 @@
 <a href="https://webflow.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/webflow.svg" alt="webflow" width="52" height="auto"/></a>  <span>  </span>
 <a href="https://finsweet.com/client-first"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/client-first.svg" alt="client first" width="44" height="44"/></a>  <span>  </span>
 <a href="https://gsap.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/gsap.svg" alt="gsap" width="68" height="auto"/></a>  <span>  </span>
-  <div><p> </p></div>
+  <div><p> </p></div>
 <a href="https://spline.design/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/spline.svg" alt="spline" width="50" height="50"/></a>  <span>  </span>  
 <a href="https://www.figma.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/figma.svg" alt="figma" width="auto" height="46"/></a>  <span>  </span>
 <a href="https://www.adobe.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/photoshop.svg" alt="photoshop" width="auto" height="48"/></a>  <span>  </span>
