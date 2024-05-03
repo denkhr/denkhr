@@ -19,10 +19,10 @@
 <a href="https://git-scm.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/git.svg" alt="git" width="50" height="50"/></a>  <span>  </span>
 <a href="https://webflow.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/webflow.svg" alt="webflow" width="56" height="auto"/></a>  <span>  </span>
 
-<a href="https://jestjs.io"> <img align="center" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>  <span>  </span>
-<a href="https://www.photoshop.com/en"> <img align="center" rc="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>  <span>  </span>
-<a href="https://reactjs.org/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/spline.svg" alt="react" width="40" height="40"/></a>  <span>  </span>
-<a href="https://tailwindcss.com/"> <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
+<a href="https://finsweet.com/client-first"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/client-first.svg" alt="client first" width="46" height="46"/></a>  <span>  </span>
+<a href="https://gsap.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/gsap.svg" alt="gsap" width="70" height="auto"/></a>  <span>  </span>
+<a href="https://spline.design/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/spline.svg" alt="spline" width="48" height="48"/></a>  <span>  </span>
+<a href="https://www.figma.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/figma.svg" alt="figma" width="auto" height="50"/></a> 
 
 <a href="https://jestjs.io"> <img align="center" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>  <span>  </span>
 <a href="https://www.photoshop.com/en"> <img align="center" rc="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>  <span>  </span>
