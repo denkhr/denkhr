@@ -25,7 +25,7 @@
 <a href="https://finsweet.com/client-first"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/client-first.svg" alt="client first" width="40" height="40"/></a>  <span>  </span>
 <a href="https://gsap.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/gsap.svg" alt="gsap" width="66" height="auto"/></a>  <span>  </span>
   <div><p> </p></div>
-<a href="https://spline.design/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/spline.svg" alt="spline" width="48" height="48"/></a>  <span>  </span>  
+<a href="https://spline.design/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/spline.svg" alt="spline" width="50" height="50"/></a>  <span>  </span>  
 <a href="https://www.figma.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/figma.svg" alt="figma" width="auto" height="42"/></a>  <span>  </span>
 <a href="https://www.adobe.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/photoshop.svg" alt="photoshop" width="auto" height="44"/></a>  <span>  </span>
 <a href="https://www.adobe.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/illustrator.svg" alt="illustrator" width="auto" height="44"/></a>  <span>  </span>
