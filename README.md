@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Denis! 👋</h1>
-<h3 align="center">A creative designer and frontend developer.</h3>
+<h2 align="center">A creative designer and frontend developer.</h2>
 
-<h4 align="center">My social links:</h4>
+<h3 align="center">My social links:</h3>
 <div align="center">
 <a href="https://linkedin.com/in/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/linkedin.svg" alt="linkedin link" height="48" width="48"/></a> <span> </span>
 <a href="https://dribbble.com/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/dribbble.svg" alt="dribbble link" height="50" width="50"/></a> <span> </span>
 <a href="https://www.behance.net/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/behance.svg" alt="behance link" height="auto" width="52"/></a>
 </div>
 
-<h4 align="center">Languages and Tools:</h4>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
   <a href="https://www.gnu.org/software/bash/" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.blender.org/" rel="noreferrer"> <img align="center" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
