@@ -3,8 +3,8 @@
 
 <h3 align="center">My social links:</h3>
 <div align="center">
-<a href="https://linkedin.com/in/deniskhramov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/linkedin.svg" alt="linkedin link" height="48" width="48"/></a> <span>  </span>
-<a href="https://dribbble.com/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/dribbble.svg" alt="dribbble link" height="50" width="50"/></a> <span>  </span>
+<a href="https://linkedin.com/in/deniskhramov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/linkedin.svg" alt="linkedin link" height="46" width="46"/></a> <span>  </span>
+<a href="https://dribbble.com/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/dribbble.svg" alt="dribbble link" height="48" width="48"/></a> <span>  </span>
 <a href="https://www.behance.net/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/behance.svg" alt="behance link" height="auto" width="52"/></a>
 </div>
 
