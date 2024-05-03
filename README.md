@@ -5,9 +5,9 @@
 
 <h3 align="center">My social links:</h3>
 <div align="center">
-<a href="https://linkedin.com/in/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/linkedin.svg" alt="linkedin link" height="42" width="42"/></a> <span>  </span>
-<a href="https://dribbble.com/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/dribbble.svg" alt="dribbble link" height="44" width="44"/></a> <span>  </span>
-<a href="https://www.behance.net/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/behance.svg" alt="behance link" height="auto" width="46"/></a>
+<a href="https://linkedin.com/in/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/linkedin.svg" alt="linkedin link" height="40" width="40"/></a> <span>  </span>
+<a href="https://dribbble.com/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/dribbble.svg" alt="dribbble link" height="42" width="42"/></a> <span>  </span>
+<a href="https://www.behance.net/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/behance.svg" alt="behance link" height="auto" width="44"/></a>
 </div>
 
 <div><p> </p></div>
