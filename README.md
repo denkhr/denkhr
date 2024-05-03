@@ -29,7 +29,7 @@
 <a href="https://www.blender.org/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/blender.svg" alt="blender" width="auto" height="46"/></a> 
 </div>
 
-<div><p> </p></div>
-<div><p> </p></div>
+<div><p> </p></div>
+<div><p> </p></div>
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denkhr&show_icons=true&locale=en&layout=compact" alt="denkhr" /></div>
