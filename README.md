@@ -15,9 +15,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/js.svg" alt="java script" width="46" height="46"/></a>  <span>  </span>
 <a href="https://jquery.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/jquery.svg" alt="jquery" width="40" height="40"/></a>  <span>  </span>
 <a href="https://react.dev/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/react.svg" alt="react" width="52" height="auto"/></a>  <span>  </span>
-<a href="https://tailwindcss.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/tailwind.svg" alt="htailwind" width="56" height="auto"/></a>  <span>  </span>
+<a href="https://tailwindcss.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/tailwind.svg" alt="htailwind" width="54" height="auto"/></a>  <span>  </span>
 <a href="https://git-scm.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/git.svg" alt="git" width="50" height="50"/></a>  <span>  </span>
-<a href="https://webflow.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/webflow.svg" alt="webflow" width="58" height="auto"/></a>  <span>  </span>
+<a href="https://webflow.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/webflow.svg" alt="webflow" width="56" height="auto"/></a>  <span>  </span>
 
 
 <a href="https://jestjs.io"> <img align="center" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>  <span>  </span>
