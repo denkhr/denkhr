@@ -8,7 +8,6 @@
 <a href="https://linkedin.com/in/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/linkedin.svg" alt="linkedin link" height="46" width="46"/></a> <span>  </span>
 <a href="https://dribbble.com/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/dribbble.svg" alt="dribbble link" height="48" width="48"/></a> <span>  </span>
 <a href="https://www.behance.net/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/behance.svg" alt="behance link" height="auto" width="50"/></a>
-  <div><p> </p></div>
 </div>
 
 <div><p> </p></div>
