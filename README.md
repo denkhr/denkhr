@@ -18,7 +18,6 @@
 <a href="https://tailwindcss.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/tailwind.svg" alt="htailwind" width="54" height="auto"/></a>  <span>  </span>
 <a href="https://git-scm.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/git.svg" alt="git" width="50" height="50"/></a>  <span>  </span>
 <a href="https://webflow.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/webflow.svg" alt="webflow" width="56" height="auto"/></a>  <span>  </span>
-
 <a href="https://finsweet.com/client-first"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/client-first.svg" alt="client first" width="46" height="46"/></a>  <span>  </span>
 <a href="https://gsap.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/gsap.svg" alt="gsap" width="70" height="auto"/></a>  <span>  </span>
 <a href="https://spline.design/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/spline.svg" alt="spline" width="48" height="48"/></a>  <span>  </span>
