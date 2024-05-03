@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Denis! 👋</h1>
 <h2 align="center">A didital designer and frontend developer. I create brand identity, websites and applications.</h2>
 
+<div><p> </p></div>
+
 <h3 align="center">My social links:</h3>
 <div align="center">
 <a href="https://linkedin.com/in/deniskhramov"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/linkedin.svg" alt="linkedin link" height="46" width="46"/></a> <span>  </span>
