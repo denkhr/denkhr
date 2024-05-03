@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Denis! 👋</h1>
-<h2 align="center">A didital designer and frontend developer. I create brand identity, websites and applications.</h2>
+<h2 align="center">A didital designer and frontend developer. <br> I create brand identity, websites and applications.</h2>
 
 <div><p> </p></div>
 
