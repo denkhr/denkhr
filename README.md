@@ -10,7 +10,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/html5.svg" alt="html 5" width="auto" height="50"/> </a>  <span>  </span>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/html5.svg" alt="html 5" width="auto" height="50"/> </a>  <span>  </span>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/css3.svg" alt="css 3" width="auto" height="50"/> </a>  <span>  </span>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/js.svg" alt="java script" width="48" height="48"/> </a>  <span>  </span>
   <a href="https://www.figma.com/" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/jquery.svg" alt="jquery" width="40" height="40"/> </a>  <span>  </span>
