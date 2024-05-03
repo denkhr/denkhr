@@ -3,9 +3,9 @@
 
 <h3 align="center">My social links:</h3>
 <div align="center">
-<a href="https://linkedin.com/in/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/linkedin.svg" alt="linkedin link" height="50" width="50" margin-right="20"/></a>
-<a href="https://dribbble.com/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/dribbble.svg" alt="dribbble link" height="52" width="52" margin-right="20"/></a>
-<a href="https://www.behance.net/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/behance.svg" alt="behance link" height="auto" width="52" margin-right="20"/></a>
+<a href="https://linkedin.com/in/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/linkedin.svg" alt="linkedin link" height="50" width="50" margin-right="20px"/></a>
+<a href="https://dribbble.com/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/dribbble.svg" alt="dribbble link" height="52" width="52" margin-right="20px"/></a>
+<a href="https://www.behance.net/deniskhramov" target="blank"><img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/behance.svg" alt="behance link" height="auto" width="52" margin-right="20px"/></a>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
