@@ -30,7 +30,7 @@
 <a href="https://www.adobe.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/photoshop.svg" alt="photoshop" width="auto" height="44"/></a>  <span>  </span>
 <a href="https://www.adobe.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/illustrator.svg" alt="illustrator" width="auto" height="44"/></a>  <span>  </span>
 <a href="https://www.adobe.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/after-effects.svg" alt="after effects" width="auto" height="44"/></a>  <span>  </span>
-<a href="https://www.blender.org/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/blender.svg" alt="blender" width="auto" height="42"/></a> 
+<a href="https://www.blender.org/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/blender.svg" alt="blender" width="auto" height="40"/></a> 
 </div>
 
 <div><p> </p></div>
