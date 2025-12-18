@@ -18,7 +18,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/css3.svg" alt="css 3" width="auto" height="46"/></a>  <span>  </span>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/js.svg" alt="java script" width="40" height="40"/></a>  <span>  </span>
 <a href="https://jquery.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/jquery.svg" alt="jquery" width="36" height="36"/></a>  <span>  </span>
-<a href="https://react.dev/" style="display: none;"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/react.svg" alt="react" width="46" height="auto"/></a>  <span>  </span>
+<a href="https://react.dev/" display="none"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/react.svg" alt="react" width="46" height="auto"/></a>  <span>  </span>
 <a href="https://tailwindcss.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/tailwind.svg" alt="tailwind" width="46" height="auto"/></a>  <span>  </span>
 <a href="https://git-scm.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/git.svg" alt="git" width="44" height="44"/></a>  <span>  </span>
 <a href="https://webflow.com/"> <img align="center" src="https://raw.githubusercontent.com/denkhr/denkhr/main/icons/webflow.svg" alt="webflow" width="48" height="auto"/></a>  <span>  </span>
